@@ -439,7 +439,7 @@
 @media (max-width: 768px) {
   .search-bar {
     height: 50px;
-    width: 75%;
+    width: 100%;
   }
 }
 
@@ -688,7 +688,7 @@
 @media (min-width: 769px) and (max-width: 1023px) {
   .btn-program {
     font-size: 12px;
-    padding: 10px;
+    padding: 10px 80px;
   }
 }
 
