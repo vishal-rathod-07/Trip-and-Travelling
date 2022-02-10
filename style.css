@@ -573,6 +573,12 @@
   }
 }
 
+@media (max-width: 550px) {
+  .subHeading {
+    font-size: 20px;
+  }
+}
+
 @media (max-width: 768px) {
   .subHeading {
     margin-bottom: 20px;
@@ -800,6 +806,7 @@
 @media (min-width: 1024px) {
   .about p {
     font-size: 12.8px;
+    line-height: 21.33px;
   }
 }
 
