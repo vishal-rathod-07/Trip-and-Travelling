@@ -29,6 +29,7 @@
 .blue {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(38, 197, 232, 0.14)), to(rgba(0, 149, 214, 0.14)));
   background: linear-gradient(180deg, rgba(38, 197, 232, 0.14) 0%, rgba(0, 149, 214, 0.14) 100%);
+  min-height: 100vh;
 }
 
 .container {
