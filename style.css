@@ -907,6 +907,10 @@
   color: #fff;
 }
 
+.v-icon {
+  cursor: pointer;
+}
+
 @media (max-width: 550px) {
   .video-wrapper {
     -webkit-box-orient: vertical;
