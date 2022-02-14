@@ -6,11 +6,6 @@
   src: url(assets/fonts/Philosopher-Regular.ttf) format("truetype");
 }
 
-:root {
-  --main-radius: 0px;
-  --main-padding: 0px;
-}
-
 * {
   margin: 0;
   padding: 0;
