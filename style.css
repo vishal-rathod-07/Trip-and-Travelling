@@ -473,39 +473,13 @@
   }
 }
 
-@media (max-width: 768px) {
-  .search-logo {
-    padding-left: 20px;
-  }
-}
-
-@media (max-width: 550px) {
-  .search-logo {
-    padding-left: 20px;
-  }
-}
-
-@media (max-width: 320px) {
-  .search-logo {
-    padding-left: 20px;
-  }
-}
-
-@media (min-width: 769px) and (max-width: 1023px) {
-  .search-logo {
-    padding-left: 20px;
-  }
-}
-
-@media (min-width: 1024px) {
-  .search-logo {
-    padding-left: 20px;
-  }
+.search-logo {
+  padding-left: 20px;
 }
 
 @media (min-width: 1440px) {
   .search-logo {
-    padding: 22.5px 0 24.12px 46.5px;
+    padding-left: 46.5px;
   }
 }
 
