@@ -475,6 +475,7 @@
 
 .search-logo {
   padding-left: 20px;
+  height: 100%;
 }
 
 @media (min-width: 1440px) {
